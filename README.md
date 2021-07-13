@@ -2,3 +2,5 @@
 
 ## Curso introdutório de HTML5/CSS3 da DIO
 Códigos e exercícios referentes ao Curso
+
+_Criação de um pequeno site/blog pessoal com o uso de HTML e CSS_
